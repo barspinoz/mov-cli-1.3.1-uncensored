@@ -1,6 +1,0 @@
-beautifulsoup4
-lxml
-httpx
-pycryptodome
-six
-krfzf-py
